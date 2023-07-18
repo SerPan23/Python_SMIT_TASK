@@ -1,0 +1,5 @@
+pydantic==1.10.7
+uvicorn==0.21.1
+fastapi==0.100.0
+tortoise-orm==0.19.3
+asyncpg
